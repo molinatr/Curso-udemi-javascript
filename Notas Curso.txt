@@ -1,0 +1,25 @@
+Curso de Java Script
+
+ES6 --> Traspilar con herramientas como babel para que funcionen en todos los navegadores
+
+Live server --> plugin vscode para simular servidor
+
+prompt --> ventana para introducir valores a campos
+	let nombre = prompt('cual es tu nombre');
+	document.getElementById('xxx').innerHTML = `hola ${nombre}`;
+	
+console.table(..)
+console.timeEnd(..)
+
+Caracteres funciones --> slice(), subString(), split(), replace(), repeat()
+	*negativos, empieza por el final
+	typeof(), indexof() => posición , includes() => true/false
+	*typeof null, date y array => object 
+Numeros, funciones --> % modulo, Math.round(), Math.pow(x,y), 
+			Math.abs(xxx) => valor absoluto, Math.min(x,y,z...)
+
+null == undefined | null === undefined
+
+Number(varNum)
+parseInt(varNum)
+NaN --> Not a number

@@ -20,6 +20,12 @@ Numeros, funciones --> % modulo, Math.round(), Math.pow(x,y),
 
 null == undefined | null === undefined
 
+Numeros:
 Number(varNum)
-parseInt(varNum)
+parseInt(varNum) / parseFloat()
+toFixed(x) --> num decimales
 NaN --> Not a number
+
+Caraceteres:
+	= string(..)
+	.toString()
